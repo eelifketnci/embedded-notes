@@ -1,4 +1,3 @@
-# embedded-notes
 # Embedded Systems Notes – AVR (ATmega328P)
 
 This repository contains my personal study notes and practice code while learning embedded systems at the register level.  
